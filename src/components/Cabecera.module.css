@@ -1,0 +1,15 @@
+.encabezado {
+    background-color: #ddd;
+    padding: 20px 40px;
+  }
+
+.titulo{
+        margin-bottom: 10px;
+}
+
+.descripcion{
+    background-color: black;
+    color: white;
+    padding: 3px 5px;
+    border-radius: 5px;
+  }
